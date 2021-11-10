@@ -8,11 +8,12 @@ Thanks for considering contributing to the project!
 ## How to Add an API of Your Own
 * APis should be added to README.md, should not be a duplicate, and should be placed in alphabetical order.
 * Follow the existing format in README.md, which is as:
-1. List the title or name within brackets.
-2. Immediately follow the square brackets with the API's link or url in parenthesis.
-3. Optionally add a brief description of what the API does.
+1. Include an asterisk and single space at the start of the line. This will make a bullet.
+2. List the title or name within brackets.
+3. Immediately follow the square brackets with the API's link or url in parenthesis.
+4. Optionally add a brief description of what the API does.
 * An example addition is as follows:
-* `[Made Up API](www.api.madeup.com/) - A fictional API to show an example of an API listing.`
+* `* [Made Up API](www.api.madeup.com/) - A fictional API to show an example of an API listing.`
 
 ## How to Make a Push Request Back to the Original Project
 #### From A Fork
