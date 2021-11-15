@@ -10,3 +10,4 @@ Happy coding!
 * [GitHub REST API](https://docs.github.com/en/rest) - You can use the GitHub REST API to create calls to get the data you need to integrate with GitHub.
 * [Medium API](https://github.com/Medium/medium-api-docs#31-users) - medium.com's documentation repo. Allows APi keyholders to get information and post content to their account.
 * [NASA API](https://api.nasa.gov/) - NASA's API directory. Contains multiple terrestrial and planetary data API's.
+* [YouTube Data and Resources APIs](https://developers.google.com/youtube/documentation) - YouTube has a number of APIs and tools that let you embed YouTube functionality into your own website and applications.
