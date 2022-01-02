@@ -13,5 +13,6 @@ Happy coding!
 * [Mapbox API](https://www.mapbox.com/) - Precise location data and powerful developer tools to change the way we navigate the world.
 * [Medium API](https://github.com/Medium/medium-api-docs#31-users) - medium.com's documentation repo. Allows APi keyholders to get information and post content to their account.
 * [NASA API](https://api.nasa.gov/) - NASA's API directory. Contains multiple terrestrial and planetary data API's.
+* [TD Ameritrade API](https://developer.tdameritrade.com/apis) - Create a trading bot or stock market analysis app.
 * [YouTube Data and Resources APIs](https://developers.google.com/youtube/documentation) - YouTube has a number of APIs and tools that let you embed YouTube functionality into your own website and applications.
 * [WikiPedia API suite](https://www.mediawiki.org/wiki/API:Web_APIs_hub) - Multiple APIs to manipulate WikiePedia's resources in various ways.
