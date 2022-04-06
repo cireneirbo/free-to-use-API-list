@@ -10,6 +10,7 @@ Happy coding!
 * [Kepler.gl](https://docs.kepler.gl/) - a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets.
 * [Giphy API](https://developers.giphy.com/docs/api#quick-start-guide) - A library of gifs and stickers to integrate into your app.
 * [GitHub REST API](https://docs.github.com/en/rest) - You can use the GitHub REST API to create calls to get the data you need to integrate with GitHub.
+* [Graph API](https://developers.facebook.com/docs/graph-api) - The Graph API is the primary way for apps to read and write to the Facebook social graph.
 * [Mapbox API](https://www.mapbox.com/) - Precise location data and powerful developer tools to change the way we navigate the world.
 * [Medium API](https://github.com/Medium/medium-api-docs#31-users) - medium.com's documentation repo. Allows APi keyholders to get information and post content to their account.
 * [NASA API](https://api.nasa.gov/) - NASA's API directory. Contains multiple terrestrial and planetary data API's.
