@@ -7,6 +7,7 @@ Happy coding!
 ## List of APIs (in alphabetical order)
 * [Accuweather API](https://developer.accuweather.com/) - Get free access to a sampling of our weather API endpoints, including Locations, Current Conditions, and Daily and Hourly Forecasts.
 * [Algolia API](https://www.algolia.com/) - Powerful updating search queries and recommendations API.
+* [Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - Get one daily experience with an image and source URL; Dutch by default.
 * [Hacker News Network](https://hn.algolia.com/api) - Hacker News Network API uses Algolia API to return HNN data.
 * [Kepler.gl](https://docs.kepler.gl/) - a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets.
 * [Giphy API](https://developers.giphy.com/docs/api#quick-start-guide) - A library of gifs and stickers to integrate into your app.
